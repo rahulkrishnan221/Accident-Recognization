@@ -1,3 +1,5 @@
 https://drive.google.com/uc?id=1PDsYAsOEwZTcFVVt444wvhOTfjqwqTaY&export=download 
 /*taken from 
   https://ankitshah009.github.io/accident_forecasting_traffic_camera*/
+
+https://github.com/ankitshah009/CarCrash_forecasting_and_detection/tree/master/data (Github repo of the same)
